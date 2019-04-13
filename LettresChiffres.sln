@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettresChiffres", "LettresChiffres\LettresChiffres\LettresChiffres.csproj", "{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettresChiffresContent", "LettresChiffres\LettresChiffresContent\LettresChiffresContent.contentproj", "{688C8682-8029-49C7-A229-102C5E331D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLObject", "XMLObject\XMLObject.csproj", "{19BB0FA6-C933-42C4-8D43-6DDC09C831AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{DE11B1A4-7107-4F94-BFA6-40783DB76D2B}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{688C8682-8029-49C7-A229-102C5E331D18}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{688C8682-8029-49C7-A229-102C5E331D18}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{19BB0FA6-C933-42C4-8D43-6DDC09C831AA}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{19BB0FA6-C933-42C4-8D43-6DDC09C831AA}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{19BB0FA6-C933-42C4-8D43-6DDC09C831AA}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{19BB0FA6-C933-42C4-8D43-6DDC09C831AA}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

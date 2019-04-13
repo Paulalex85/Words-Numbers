@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: remplacez cet élément par vos propres données XML. -->
+  <Asset Type="XMLObject.Difficulte">
+    <ListeDifficulte>
+      <Item>
+        <Difficulte>Blanc</Difficulte>
+        <ListePourcentageChiffres>0 0 0 5 10 15 20 50</ListePourcentageChiffres>
+        <ListePourcetageLettres>0 0 0 10 20 30 40</ListePourcetageLettres>
+        <TempsLettres>120</TempsLettres>
+        <TempsChiffres>120</TempsChiffres>
+      </Item>
+      <Item>
+        <Difficulte>Vert</Difficulte>
+        <ListePourcentageChiffres>0 5 15 20 25 15 10 10</ListePourcentageChiffres>
+        <ListePourcetageLettres>0 0 10 20 30 40 0</ListePourcetageLettres>
+        <TempsLettres>90</TempsLettres>
+        <TempsChiffres>90</TempsChiffres>
+      </Item>
+      <Item>
+        <Difficulte>Bleu</Difficulte>
+        <ListePourcentageChiffres>10 10 15 20 20 20 5 0</ListePourcentageChiffres>
+        <ListePourcetageLettres>0 10 20 30 40 0 0</ListePourcetageLettres>
+        <TempsLettres>50</TempsLettres>
+        <TempsChiffres>60</TempsChiffres>
+      </Item>
+      <Item>
+        <Difficulte>Jaune</Difficulte>
+        <ListePourcentageChiffres>20 30 20 20 10 0 0 0</ListePourcentageChiffres>
+        <ListePourcetageLettres>10 20 30 40 0 0 0</ListePourcetageLettres>
+        <TempsLettres>30</TempsLettres>
+        <TempsChiffres>45</TempsChiffres>
+      </Item>
+      <Item>
+        <Difficulte>Orange</Difficulte>
+        <ListePourcentageChiffres>35 30 25 10 0 0 0 0</ListePourcentageChiffres>
+        <ListePourcetageLettres>20 30 40 10 0 0 0</ListePourcetageLettres>
+        <TempsLettres>30</TempsLettres>
+        <TempsChiffres>45</TempsChiffres>
+      </Item>
+    </ListeDifficulte>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: remplacez cet élément par vos propres données XML. -->
+  <Asset Type="XMLObject.Sauvegarde">
+    <ListeSave>
+
+      <TypeMatch>0</TypeMatch>
+      <RoundMatch>0</RoundMatch>
+      <NombreDeManches>0</NombreDeManches>
+      <NombreManchesJouer>0</NombreManchesJouer>
+      <Difficulte>0</Difficulte>
+      <ScoreJoueur>99</ScoreJoueur>
+      <ScoreAdversaire>99</ScoreAdversaire>
+      <NomAdversaire>0</NomAdversaire>
+
+    </ListeSave>
+  </Asset>
+</XnaContent>
